@@ -1,4 +1,5 @@
 //@Anurag Maurya i love recursion
+//beautiful use of recusion on linked list <3<3<3
 #include <bits/stdc++.h>
 using namespace std;
 struct node
